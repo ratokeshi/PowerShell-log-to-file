@@ -11,10 +11,10 @@ $
 modify path?
 
 ### Usage options
-Run it in shell?
+Run this script with -noexit and you will be in log mode.
 
 ### Future possibilities:
-1.  
+1.  toggle logmode ond set status?
 
 
 ## Update Notes
