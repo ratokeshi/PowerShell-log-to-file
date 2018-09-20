@@ -12,6 +12,8 @@ modify path?
 
 ### Usage options
 Run this script with -noexit and you will be in log mode.
+For example: 
+'''powershell -noexit .\PowerShell-log-to-file\PSlogToFile.ps1'''
 
 ### Future possibilities:
 1.  toggle logmode ond set status?
