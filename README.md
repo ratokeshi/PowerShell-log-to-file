@@ -13,7 +13,7 @@ modify path?
 ### Usage options
 Run this script with -noexit and you will be in log mode.
 For example: 
-```PowerShell
+```powershell
 powershell -noexit .\PowerShell-log-to-file\PSlogToFile.ps1
 ```
 
